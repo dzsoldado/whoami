@@ -1,2 +1,2 @@
 # whoami
-Practising nodejs
+Practicing nodejs
